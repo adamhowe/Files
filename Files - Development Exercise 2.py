@@ -16,9 +16,9 @@ while thing == False:
         thing = True
         print("\nEnd")
     else:
-        new_record.birth =  input("Enter date of birth (dd/mm/yyyy): ")
-    for count in range():
-        names_list.append(Names)
+        new_record.birth =  input("Enter date of birth: ")
+    for count in range(1):
+        name_list.append(Names)
     
     
 with open("names.dat",mode="wb") as name_file:
